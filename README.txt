@@ -1,4 +1,4 @@
-#A Meta-MDP Approach to Exploration for Lifelong Reinforcement Learning
+# A Meta-MDP Approach to Exploration for Lifelong Reinforcement Learning
 
 - To train the exploration policy use LearnMeta.py. For example for carpole:
 	- python LearnMeta.py -e cartpole -d ./CartpoleData/cartpole_data.pkl -a 0.001 -b 0.010 -s ./MetaTrainingCartpole 
